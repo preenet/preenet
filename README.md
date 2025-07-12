@@ -11,7 +11,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=preenet&show_icons=true&theme=tokyonight" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preenet&layout=compact&theme=tokyonight" alt="top-langs" />
 </p>
 
