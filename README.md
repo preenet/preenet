@@ -3,6 +3,8 @@
   #### 🔬 Research & AI
   ![NLP](https://img.shields.io/badge/NLP-Sentiment_Analysis-00A67E?style=flat-square)
   ![Computer Vision](https://img.shields.io/badge/Computer_Vision-Object_Detection-0078D4?style=flat-square)
+  ![Slurm](https://img.shields.io/badge/Slurm-Workload_Manager-2B2B2B?style=flat-square)
+
 
 
 
@@ -21,3 +23,8 @@
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
   ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+#### 🧩 Edge & Embedded
+
+![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Orange Pi](https://img.shields.io/badge/Orange%20Pi-FF7F00?style=flat-square&logo=orangepi&logoColor=white)
