@@ -1,9 +1,10 @@
   ### 🛠️ Tech Stack
 
   #### 🔬 Research & AI
-  ![Computer Vision](https://img.shields.io/badge/Computer_Vision-Object_Detection-0078D4?style=flat-square)
   ![NLP](https://img.shields.io/badge/NLP-Sentiment_Analysis-00A67E?style=flat-square)
-  ![Languages](https://img.shields.io/badge/Thai_|_Myanmar_|_SEA-FF6B35?style=flat-square)
+  ![Computer Vision](https://img.shields.io/badge/Computer_Vision-Object_Detection-0078D4?style=flat-square)
+
+
 
   #### 🤖 Core Technologies
   ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
